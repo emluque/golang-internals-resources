@@ -15,6 +15,8 @@ This is a curated collection of Articles and Videos about Golang internals. It i
 
 [Inside the Map Implementation](https://youtu.be/Tl7mi9QmLns) Talk by Keith Randall
 
+[How the Go runtime implements maps efficiently (without generics)](https://dave.cheney.net/2018/05/29/how-the-go-runtime-implements-maps-efficiently-without-generics) by Dave Cheney
+
 ### Interfaces
 [Go Data Structures: Interfaces](https://research.swtch.com/interfaces) by Russ Cox
 
