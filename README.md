@@ -41,6 +41,8 @@ This is a curated collection of Articles and Videos about Golang internals. It i
 ### Channels
 [Channels in Golang](http://www.tapirgames.com/blog/golang-channel) by @TapirLiu
 
+[Understanding Channels](https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/) Talk by Kavya Joshi
+
 ### Tools
 ["go test -race" Under the Hood](https://www.youtube.com/watch?v=5erqWdlhQLA) Talk by Kavya Joshi
 
@@ -53,6 +55,8 @@ This is a curated collection of Articles and Videos about Golang internals. It i
 [How does the golang scheduler work?](https://www.quora.com/How-does-the-golang-scheduler-work/answer/Ian-Lance-Taylor) by Ian Lance Taylor
 
 [Go's work-stealing scheduler](https://rakyll.org/scheduler/) by Jaana B. Dogan
+
+[The Scheduler Saga](https://www.youtube.com/watch?v=YHRO5WQGh0ka) Talk by Kavya Joshi
 
 ### Timers
 [How Do They Do It: Timers in Go](https://lk4d4.darth.io/posts/go-timers/) by Alexander Morozov
