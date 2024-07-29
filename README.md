@@ -36,7 +36,7 @@ This is a curated collection of Articles and Videos about Golang internals. It i
 ## Concurrency Primitives
 
 ### Goroutines
-[How Goroutines Work](http://blog.nindalf.com/how-goroutines-work/) by Krishna Sundarram
+[How Goroutines Work](https://nindalf.com/posts/how-goroutines-work/) by Krishna Sundarram
 
 ### Channels
 [Channels in Golang](http://www.tapirgames.com/blog/golang-channel) by @TapirLiu
